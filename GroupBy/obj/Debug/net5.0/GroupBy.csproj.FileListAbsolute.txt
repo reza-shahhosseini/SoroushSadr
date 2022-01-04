@@ -1,0 +1,16 @@
+/Users/rezashahhosseini/Desktop/SoroushSadr/GroupBy/bin/Debug/net5.0/GroupBy
+/Users/rezashahhosseini/Desktop/SoroushSadr/GroupBy/bin/Debug/net5.0/GroupBy.deps.json
+/Users/rezashahhosseini/Desktop/SoroushSadr/GroupBy/bin/Debug/net5.0/GroupBy.runtimeconfig.json
+/Users/rezashahhosseini/Desktop/SoroushSadr/GroupBy/bin/Debug/net5.0/GroupBy.runtimeconfig.dev.json
+/Users/rezashahhosseini/Desktop/SoroushSadr/GroupBy/bin/Debug/net5.0/GroupBy.dll
+/Users/rezashahhosseini/Desktop/SoroushSadr/GroupBy/bin/Debug/net5.0/ref/GroupBy.dll
+/Users/rezashahhosseini/Desktop/SoroushSadr/GroupBy/bin/Debug/net5.0/GroupBy.pdb
+/Users/rezashahhosseini/Desktop/SoroushSadr/GroupBy/obj/Debug/net5.0/GroupBy.csproj.AssemblyReference.cache
+/Users/rezashahhosseini/Desktop/SoroushSadr/GroupBy/obj/Debug/net5.0/GroupBy.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rezashahhosseini/Desktop/SoroushSadr/GroupBy/obj/Debug/net5.0/GroupBy.AssemblyInfoInputs.cache
+/Users/rezashahhosseini/Desktop/SoroushSadr/GroupBy/obj/Debug/net5.0/GroupBy.AssemblyInfo.cs
+/Users/rezashahhosseini/Desktop/SoroushSadr/GroupBy/obj/Debug/net5.0/GroupBy.csproj.CoreCompileInputs.cache
+/Users/rezashahhosseini/Desktop/SoroushSadr/GroupBy/obj/Debug/net5.0/GroupBy.dll
+/Users/rezashahhosseini/Desktop/SoroushSadr/GroupBy/obj/Debug/net5.0/ref/GroupBy.dll
+/Users/rezashahhosseini/Desktop/SoroushSadr/GroupBy/obj/Debug/net5.0/GroupBy.pdb
+/Users/rezashahhosseini/Desktop/SoroushSadr/GroupBy/obj/Debug/net5.0/GroupBy.genruntimeconfig.cache

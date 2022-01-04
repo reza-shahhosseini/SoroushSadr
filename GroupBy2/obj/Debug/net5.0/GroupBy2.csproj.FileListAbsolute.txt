@@ -1,0 +1,16 @@
+/Users/rezashahhosseini/Desktop/SoroushSadr/GroupBy2/obj/Debug/net5.0/GroupBy2.csproj.AssemblyReference.cache
+/Users/rezashahhosseini/Desktop/SoroushSadr/GroupBy2/obj/Debug/net5.0/GroupBy2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rezashahhosseini/Desktop/SoroushSadr/GroupBy2/obj/Debug/net5.0/GroupBy2.AssemblyInfoInputs.cache
+/Users/rezashahhosseini/Desktop/SoroushSadr/GroupBy2/obj/Debug/net5.0/GroupBy2.AssemblyInfo.cs
+/Users/rezashahhosseini/Desktop/SoroushSadr/GroupBy2/obj/Debug/net5.0/GroupBy2.csproj.CoreCompileInputs.cache
+/Users/rezashahhosseini/Desktop/SoroushSadr/GroupBy2/bin/Debug/net5.0/GroupBy2
+/Users/rezashahhosseini/Desktop/SoroushSadr/GroupBy2/bin/Debug/net5.0/GroupBy2.deps.json
+/Users/rezashahhosseini/Desktop/SoroushSadr/GroupBy2/bin/Debug/net5.0/GroupBy2.runtimeconfig.json
+/Users/rezashahhosseini/Desktop/SoroushSadr/GroupBy2/bin/Debug/net5.0/GroupBy2.runtimeconfig.dev.json
+/Users/rezashahhosseini/Desktop/SoroushSadr/GroupBy2/bin/Debug/net5.0/GroupBy2.dll
+/Users/rezashahhosseini/Desktop/SoroushSadr/GroupBy2/bin/Debug/net5.0/ref/GroupBy2.dll
+/Users/rezashahhosseini/Desktop/SoroushSadr/GroupBy2/bin/Debug/net5.0/GroupBy2.pdb
+/Users/rezashahhosseini/Desktop/SoroushSadr/GroupBy2/obj/Debug/net5.0/GroupBy2.dll
+/Users/rezashahhosseini/Desktop/SoroushSadr/GroupBy2/obj/Debug/net5.0/ref/GroupBy2.dll
+/Users/rezashahhosseini/Desktop/SoroushSadr/GroupBy2/obj/Debug/net5.0/GroupBy2.pdb
+/Users/rezashahhosseini/Desktop/SoroushSadr/GroupBy2/obj/Debug/net5.0/GroupBy2.genruntimeconfig.cache

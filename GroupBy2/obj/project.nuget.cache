@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wehriXgG0ZmlJva61opwp/K4+vtHAjcSls9RgapxQguObDxKoybG36Mka7ffeKTjYcAR9qDqyYm4PRdqX4xvrw==",
+  "success": true,
+  "projectFilePath": "/Users/rezashahhosseini/Desktop/SoroushSadr/GroupBy2/GroupBy2.csproj",
+  "expectedPackageFiles": [
+    "/Users/rezashahhosseini/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.12/microsoft.netcore.app.host.osx-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
